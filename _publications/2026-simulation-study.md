@@ -1,7 +1,7 @@
 ---
 title: "A Simulation Study of Topic Model Performance under Varying Corpus Conditions"
-collection: publications
-category: conferences
+collection: working papers
+category: manuscripts
 permalink: /publication/2025-simulation-topic-models
 excerpt: 'Monte Carlo simulation study examining how corpus characteristics affect LDA estimation performance, and comparing LDA and STM under temporally evolving topic prevalence. Presented as a poster at BaYSM 2025.'
 date: 2025-06-01
