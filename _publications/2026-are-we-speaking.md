@@ -1,6 +1,6 @@
 ---
 title: "Are we Speaking the same Language? Using Topic Models to shed light on Research Utilization issues between Entrepreneurial Ecosystem Scholars and Policy-Makers"
-collection: publications
+collection: working papers
 category: manuscripts
 permalink: /publication/2024-ecosystems-language
 excerpt: 'Applies Structural Topic Models to compare academic entrepreneurial ecosystem discourse with policy documentation across the four UK nations, examining the extent to which research findings are reflected in policy language.'
