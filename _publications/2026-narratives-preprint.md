@@ -1,6 +1,6 @@
 ---
 title: "A Statistical Framework for Detecting Emergent Narratives in Longitudinal Text Corpora"
-collection: working paper
+collection: working papers
 category: manuscripts
 permalink: /publication/2026-narratives-preprint
 excerpt: 'Proposes a statistical framework combining topic modelling with trend analysis to detect and characterise the emergence of narratives in longitudinal text corpora.'
