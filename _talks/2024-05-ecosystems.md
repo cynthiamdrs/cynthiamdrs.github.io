@@ -3,7 +3,7 @@ title: "Are we Speaking the same Language? Using Topic Models to shed light on R
 collection: talks
 type: "Conference paper"
 permalink: /talks/2024-ecosystems
-venue: "Conference presentation"
+venue: "Entrepreneurial Ecosystems Research Spring School 2024"
 date: 2024-05-13
 location: "University of Stuttgart (Stuttgart, Germany)"
 ---
