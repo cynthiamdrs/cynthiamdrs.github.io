@@ -33,18 +33,18 @@ author:
   email            : "cynthia.medeiros@strath.ac.uk" 
 
   # Academic websites
-  academia         : # URL
+#  academia         : # URL
   arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=4uo-r9kAAAAJ&hl"
-  inspire-hep      : # URL
-  impactstory      : # URL
+#  inspire-hep      : # URL
+#  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-8126-6662"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+#  semantic         : # URL
+ # ssrn             : # URL
+ # pubmed           : # URL
+#  researchgate     : # URL
+#  scopus           : # URL
+#  zotero           : # URL
 
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
