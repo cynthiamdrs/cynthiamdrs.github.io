@@ -9,4 +9,4 @@ redirect_from:
 
 <a href="/files/cv.pdf" class="btn btn--primary">Download CV (PDF)</a>
 
-*Last updated: June 2026*
+*Last updated: August 2026*
