@@ -39,4 +39,4 @@ I have supervised 21 postgraduate dissertations (20 of them knowledge exchange p
 ## Beyond academia...
 Being from Rio de Janeiro, I feel most at home close to both the sea and the mountains. In Scotland, this means spending my free time sailing small boats when the weather permits, and hiking (even when it does not).
 
-Outside work, I enjoy drinking coffee and reading -- mostly fiction, although this does include literature and the occasional economics paper, of course. I am happiest when I can combine the two.
+Outside work, I enjoy drinking coffee and reading. I am happiest when I can combine the two.
