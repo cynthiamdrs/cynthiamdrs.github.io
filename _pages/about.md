@@ -21,8 +21,8 @@ I am a Fellow of the Royal Statistical Society and serve on the RSS Glasgow Loca
 
 - Computational text analysis and natural language processing
 - Statistical learning for high-dimensional, unstructured datasets
-- Bayesian modelling and econometrics
-- Risk analysis and management
+- Bayesian modelling, econometrics and uncertainty quantification
+- Risk analysis and policy applications
 
 ## Teaching
 
@@ -30,4 +30,13 @@ I lead quantitative modules for undergraduate and postgraduate degrees across St
 
 ## Supervision
 
-I have supervised 18 postgraduate dissertations, and 3 undergraduate dissertations.
+PhD level:
+- Thiago Adriel da Cruz Alves Santos
+
+Postgraduate taught and undergraduate levels:
+I have supervised 21 postgraduate dissertations (20 of them knowledge exchange projects in partnership with Frazer-Nash Consultancy), and 3 undergraduate dissertations.
+
+## Beyond academia...
+Being from Rio de Janeiro, I feel most at home close to both the sea and the mountains. In Scotland, this means spending my free time sailing small boats when the weather permits, and hiking (even when it does not).
+
+Outside work, I enjoy drinking coffee and reading -- mostly fiction, although this does include literature and the occasional economics paper, of course. I am happiest when I can combine the two.
